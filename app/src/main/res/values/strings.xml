@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChallengeGame</string>
+    <string name="edit_message">Player 1</string>
+    <string name="add_player">Add Player</string>
+    <string name="welcome_message">Tap to play!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play">Play</string>
+</resources>
