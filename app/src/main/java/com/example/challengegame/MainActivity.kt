@@ -35,8 +35,7 @@ class MainActivity : AppCompatActivity() {
             playerList.add(player.text.toString())
         }
 
-        for (i in 2..numPlayer)
-        {
+        for (i in 2..numPlayer){
             player = findViewById<EditText>(i)
             if (!player.text.toString().isNullOrEmpty()) {
                 playerList.add(player.text.toString())

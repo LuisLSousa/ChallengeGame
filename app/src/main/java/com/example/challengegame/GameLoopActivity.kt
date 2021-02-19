@@ -1,7 +1,7 @@
 /* To add challenges, add them to the file located in src\main\assets\challenges.txt.
 For example, if you wanted to make a drinking challenge, write the challenge in the form:
 
-%s drink %d times.
+%s, drink %d times.
 
 %s will be substituted automatically for a random player, and %d will be replaced by a random number
 between 2 and 5. If you want to include two players, simply add another %s. E.g.:
@@ -21,7 +21,7 @@ Use your imagination and have fun!
  */
 
 // todo - Read challenges from Google Sheets online if internet is available. Otherwise, read challenges from file.
-// todo - Add menu at start to pick what you want to play: drinking game, romantic, dares, ...
+// todo - Add menu at start to pick what you want to play: drinking game, romantic, dares, etc.
 
 package com.example.challengegame
 import android.content.res.AssetManager
