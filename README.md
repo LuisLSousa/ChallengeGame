@@ -20,8 +20,7 @@ E.g.:
 ```
 %s and %s, drink as many times as there are people between you (clockwise).
 ```
-
-For simplicity, it is only possible to include two players in a challenge. This could be changed at a later stage.
+For simplicity, it is only possible to include two players in a challenge, although this could be changed at a later stage. \
 It is also possible to include challenges like:
 ```
 %s, do a handstand.
